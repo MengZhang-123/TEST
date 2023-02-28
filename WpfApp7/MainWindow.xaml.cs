@@ -28,6 +28,7 @@ namespace WpfApp7
             int C = 5;
             int d = 5;
             int E = 5;
+            int F = 12;
            
         }
     }
