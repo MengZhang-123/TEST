@@ -23,6 +23,7 @@ namespace WpfApp7
         public MainWindow()
         {
             InitializeComponent();
+            int A = 10;
         }
     }
 }
