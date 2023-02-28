@@ -25,6 +25,9 @@ namespace WpfApp7
             InitializeComponent();
             int A = 10;
             int B = 5;
+            int C = 5;
+            int d = 5;
+           
         }
     }
 }
